@@ -14,7 +14,7 @@
    *start->settings->Network and security->change adapter options->right click wifi and open properties->click sharing tab->tick on allow sharing and select ethernet from the drop down list->ok*
 9. Now add sd-card into pi and power it up. wait for 2-5 mins for the pi to install the os,then connect it to pc via ethernet cable. 
 10. Now you need 2 new softwares: [puTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) & [Xming](https://sourceforge.net/projects/xming/).
-11. After installing putty and xming open xming,now xming will start to run in background.
+11. After installing putty and xming open xming,now xming will start running in background.
 12. Setting up puTTY:
        1. open command prompt & type *ipconfig /all* from this find the ip address of your pi.
        2. Now open puTTY: type in ip address of pi->select ssh from the list from the side and click on x11 forwarding and enable it->click open.
