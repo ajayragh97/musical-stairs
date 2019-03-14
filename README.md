@@ -17,9 +17,11 @@
 11. After installing putty and xming open xming,now xming will start to run in background.
 12. Setting up puTTY:
        1. open command prompt & type *ipconfig /all* from this find the ip address of your pi.
-       2. Now open puTTY: type in ip address of pi->select ssh from the list from the side and click on x11 forwarding and enable it->click open
+       2. Now open puTTY: type in ip address of pi->select ssh from the list from the side and click on x11 forwarding and enable it->click open.
+
        ![putty1](https://raw.githubusercontent.com/ajayragh97/musical-stairs/master/images/putty1.jpg)
        ![putty2](https://raw.githubusercontent.com/ajayragh97/musical-stairs/master/images/putty2.jpg)
+       
        3. Now the ssh login prompt will come use the default username(*pi*) and password(*raspberry*) to login.
        4. After login type in command *startlxde*.
 
