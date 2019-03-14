@@ -12,7 +12,7 @@
 8. Now to setup windows first connect pc to wifi then follow below steps:
 
    *start->settings->Network and security->change adapter options->right click wifi and open properties->click sharing tab->tick on allow sharing and select ethernet from the drop down list->ok*
-9. Now add sd-card into pi and power it up. wait for 2-5 mins for the pie to install the os,then connect it to pc via ethernet cable. 
+9. Now add sd-card into pi and power it up. wait for 2-5 mins for the pi to install the os,then connect it to pc via ethernet cable. 
 10. Now you need 2 new softwares: [puTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) & [Xming](https://sourceforge.net/projects/xming/).
 11. After installing putty and xming open xming,now xming will start to run in background.
 12. Setting up puTTY:
@@ -21,7 +21,7 @@
 
        ![putty1](https://raw.githubusercontent.com/ajayragh97/musical-stairs/master/images/putty1.jpg)
        ![putty2](https://raw.githubusercontent.com/ajayragh97/musical-stairs/master/images/putty2.jpg)
-       
+
        3. Now the ssh login prompt will come use the default username(*pi*) and password(*raspberry*) to login.
        4. After login type in command *startlxde*.
 
