@@ -22,7 +22,7 @@
        ![putty1](https://raw.githubusercontent.com/ajayragh97/musical-stairs/master/images/putty1.jpg)
        ![putty2](https://raw.githubusercontent.com/ajayragh97/musical-stairs/master/images/putty2.jpg)
 
-       3. Now the ssh login prompt will come use the default username(*pi*) and password(*raspberry*) to login.
+       3. Now the ssh login prompt will be displayed. Use the default username(*pi*) and password(*raspberry*) to login.
        4. After login type in command *startlxde*.
 
 
